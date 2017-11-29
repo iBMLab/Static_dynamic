@@ -1,4 +1,5 @@
 # Tracking the recognition of static and dynamic facial expressions of emotion across life span
+![](https://img.shields.io/badge/Materials-Public-green.svg) ![](https://img.shields.io/badge/Data-Public-green.svg) ![](https://img.shields.io/badge/Analysis-Public-green.svg) 
 
 ##### Anne-Raphaëlle Richoz<sup>1, 2</sup>, Junpeng Lao<sup>1</sup>, Olivier Pascalis<sup>2</sup> & Roberto Caldara<sup>1</sup>
 
